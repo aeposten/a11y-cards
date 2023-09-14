@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "front": "What do theoretical models of disability provide?",
+        "back": "Perspectives and frameworks through which to understand disability.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    },
+    {
+        "id": 2,
+        "front": "Are theoretical models of disability considered fully correct?",
+        "back": "No, no model is comprehensive and can be neither fully correct nor incorrect. Each has strengths as well as limitations.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    },
+    {
+        "id": 3,
+        "front": "Which models do organizations generally use in practice?",
+        "back": "Organizations generally make use of aspects of multiple models, especially the social and medical models.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    },
+    {
+        "id": 4,
+        "front": "How do definitions and perceptions of disability impact people with disabilities?",
+        "back": "The assumptions we make about people with disabilities can inform government policies, work opportunities, and result in social acceptance or stigmas for people with disabilities.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    },
+    {
+        "id": 5,
+        "front": "Why is it important to examine our assumptions about disabilities?",
+        "back": "To ensure we don't accidentally create problems and barriers for people with disabilities.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    },
+    {
+        "id": 6,
+        "front": "What is the purpose of discussing theoretical models of disabilities?",
+        "back": "To help us examine our assumptions about disabilities.",
+        "tags": ["theoretical models of disability"],
+        "flagged": false
+    }
+    ]
+    

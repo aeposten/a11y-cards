@@ -1,11 +1,7 @@
-import "./Back.css"
+import "./Back.css";
 
-function Back () {
-    return (
-        <div className="back">
-            I'm a the back!
-        </div>
-    )
+function Back({ back }) {
+  return <div className="back">{back}</div>;
 }
 
 export default Back;
